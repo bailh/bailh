@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+![Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg)
 
 ## 大学牲—天平
 
